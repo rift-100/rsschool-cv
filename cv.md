@@ -14,3 +14,5 @@
 6. I don't have any experience.
 7. I'm uneducated.
 8. C1
+## PHOTO
+![AVATAR](./IMG_4151-small.jpg)
