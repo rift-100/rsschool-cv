@@ -15,4 +15,4 @@
 7. I'm uneducated.
 8. C1
 ## PHOTO
-![AVATAR](./IMG_4151-small.jpg)
+![AVATAR](./assets/images/avatar.jpg)
