@@ -67,3 +67,22 @@ code {
     background-color: grey;
     padding: 15px;
 }
+
+footer {
+    background-color:aquamarine;
+    padding-top: 30px;
+}
+
+.github {
+    margin: 30px;
+}
+
+.github a {
+    font-size: 33px;
+    color: black;
+    text-decoration: none;
+}
+
+footer .container {
+    text-align: center;
+}
