@@ -10,7 +10,7 @@
     * JavaScript
 5. Code example:
 
-    ```cons square = (n) => n*n;```
+    ```cons cube = (n) => n**3;```
 6. I don't have any experience.
 7. I'm uneducated.
 8. C1
