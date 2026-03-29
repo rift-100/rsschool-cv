@@ -1,9 +1,9 @@
 ## CV
-1.  Sergei Shinkarenko
+1.  Seriy Shynkarenko
 2. Contacts:
     * tg: @ks_dn
     * discord: resident21
-3. I have not goal, only path and my path is life.
+3. I have some goals and my path is life.
 4. Skills:
     * HTML
     * CSS
@@ -11,8 +11,8 @@
 5. Code example:
 
     ```cons cube = (n) => n**3;```
-6. I don't have any experience.
-7. I'm uneducated.
-8. C1
+6. I have some experience.
+7. I'm educated.
+8. B2
 ## PHOTO
 ![AVATAR](./assets/images/avatar.jpg)
