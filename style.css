@@ -38,12 +38,12 @@ body {
   }
 
   .nav-link:hover {
-    color: brown;
+    color:cadetblue;
   }
 
 h1 {
     text-align: center;
-    color: brown;
+    color: cadetblue;
 }
 
 .profile {
@@ -60,7 +60,7 @@ section {
 
 h2 {
     text-decoration: underline;
-    color: brown;
+    color: cadetblue;
 }
 
 code {
